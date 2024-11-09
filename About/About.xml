@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>VFE Security Siege Fix</name>
-	<author>Error: String Expected\, Got Nil</author>
+	<author>Error: String Expected Got Nil</author>
 	<packageId>esegn.VFESecuritySiegeFix</packageId>
 	<supportedVersions>
 		<li>1.5</li>
@@ -15,6 +15,6 @@
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>VanillaExpanded.VFESecurity</li>
 	</loadAfter>
 </ModMetaData>
