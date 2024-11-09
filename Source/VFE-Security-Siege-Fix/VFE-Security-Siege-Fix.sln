@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VFE-Security-Siege-Fix", "VFE-Security-Siege-Fix.csproj", "{9C2524C1-DACC-4748-9AC3-6DF05739D86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		1.5|Any CPU = 1.5|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C2524C1-DACC-4748-9AC3-6DF05739D86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2524C1-DACC-4748-9AC3-6DF05739D86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2524C1-DACC-4748-9AC3-6DF05739D86A}.Debug|Any CPU.ActiveCfg = 1.5|Any CPU
+		{9C2524C1-DACC-4748-9AC3-6DF05739D86A}.Debug|Any CPU.Build.0 = 1.5|Any CPU
+		{9C2524C1-DACC-4748-9AC3-6DF05739D86A}.1.5|Any CPU.ActiveCfg = 1.5|Any CPU
+		{9C2524C1-DACC-4748-9AC3-6DF05739D86A}.1.5|Any CPU.Build.0 = 1.5|Any CPU
+	EndGlobalSection
+EndGlobal
